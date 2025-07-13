@@ -1,5 +1,8 @@
 streamlit
-pandas
 scikit-learn
 sentence-transformers
-PyMuPDF
+pdfplumber
+plotly
+matplotlib
+wordcloud
+reportlab
